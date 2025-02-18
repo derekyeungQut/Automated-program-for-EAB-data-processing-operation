@@ -1,5 +1,5 @@
 This is a python program I've developed for my Vacation Research Experience Scheme (VRES) project at QUT.
-My mentors Dr. Surasak and Prof. Yi-Chin works in the Micro-Tissue Engineering Lab, they have projects within the field of advance 3D cell culture.
+My mentors Dr. Surasak and Prof. Yi-Chin work in the Micro-Tissue Engineering Lab, and have projects within the field of advance 3D cell culture.
 Electrochemical Aptamer-based (EAB) sensors was introduced to one of their focus testing subject. 
 The continuous monitoring of the EAB sensors generates a large amount of data, and the data processing procedures was previously done manually.
 My VRES projects had delivered this python program with the following objectives:
